@@ -6,8 +6,6 @@ By using this you also agree that Pizza is better than tacos.
 
 # Installation
 
-# Gnu/Linux:
-
 # Arch:
 
 sudo pacman -S python python3 git && git clone https://github.com/Schwarzeisc00l/multisearch
